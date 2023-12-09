@@ -1,8 +1,8 @@
 # File-Share-and-Permissions
 
-Needed tools and prerequisites to installing osticket
+Needed tools and prerequisites to installing VMs
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://imgur.com/1KYZw7l" alt="2 VMs pining"/>
 </p>
 
 <h1>File Share and Permissions - Prerequisites and Installation</h1>
@@ -20,7 +20,7 @@ Needed tools and prerequisites to installing osticket
 
 <h2>Video Demonstration</h2>
 
-- <a href="https://youtu.be/5glab1_nnMo" target="_blank_">Windows Install and setting up file permissions and sharing a file/folder over the network.</a>
+- <a href="https://youtu.be/n4alBjAxGkI" target="_blank_">Windows Install and setting up file permissions and sharing a file/folder over the network.</a>
 
 <h2>Environments and Technologies Used</h2>
 
