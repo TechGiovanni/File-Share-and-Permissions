@@ -2,7 +2,7 @@
 
 Needed tools and prerequisites to installing VMs
 <p align="center">
-<img src="https://imgur.com/1KYZw7l" alt="2 VMs pining"/>
+<img width="700" height="300" src="https://i.imgur.com/1KYZw7l.png" alt="2 VMs pining"/>
 </p>
 
 <h1>File Share and Permissions - Prerequisites and Installation</h1>
