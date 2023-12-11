@@ -20,7 +20,7 @@ Needed tools and prerequisites to installing VMs
 
 <h2>Video Demonstration</h2>
 
-- <a href="https://youtu.be/n4alBjAxGkI" target="_blank_">Windows Install and setting up file permissions and sharing a file/folder over the network.</a>
+- <h3><a href="https://youtu.be/n4alBjAxGkI" target="_blank_">YouTube: Connecting PCs together and sharing files over the network</a></h3>
 
 <h2>Environments and Technologies Used</h2>
 
