@@ -7,17 +7,6 @@ Needed tools and prerequisites to installing VMs
 
 <h1>File Share and Permissions - Prerequisites and Installation</h1>
 
-<p>This tutorial outlines the prerequisites and installation of:</p>
-<ul>
-  <li>The windows 10 operating system</li>
-  <li>Creating users and user groups</li>
-  <li>Setting up file permissions on a NTFS formatted drive</li>
-  <li>Sharing this folder on the network</li>
-  <li>Installing the VM Virtual Box <a href="[​All supported platforms](https://download.virtualbox.org/virtualbox/7.0.12/Oracle_VM_VirtualBox_Extension_Pack-7.0.12.vbox-extpack)">Guest Addition</a></li>
-  <li>Creating a Mapped drive of the folder shared on the network for easy access</li>
-</ul>
-
-
 <h2>Video Demonstration</h2>
 
 - <h3><a href="https://youtu.be/n4alBjAxGkI" target="_blank_">YouTube: Connecting PCs together and sharing files over the network</a></h3>
@@ -33,6 +22,16 @@ Needed tools and prerequisites to installing VMs
 - Windows 10</b> (21H2)
 
 <h2>Prerequisites</h2>
+
+<p>This tutorial outlines the prerequisites and installation of:</p>
+<ul>
+  <li>The windows 10 operating system</li>
+  <li>Creating users and user groups</li>
+  <li>Setting up file permissions on a NTFS formatted drive</li>
+  <li>Sharing this folder on the network</li>
+  <li>Installing the VM Virtual Box <a href="[​All supported platforms](https://download.virtualbox.org/virtualbox/7.0.12/Oracle_VM_VirtualBox_Extension_Pack-7.0.12.vbox-extpack)">Guest Addition</a></li>
+  <li>Creating a Mapped drive of the folder shared on the network for easy access</li>
+</ul>
 
 -(Create Virtual Machines in Virtual Box and adding the Guest addition or creating it in Hyper-V)
 -(Adequate memory available for running Two Virtual Machines)
